@@ -1,4 +1,4 @@
-![Ahmad Taha](https://i.imgur.com/beXmgJf.png)
+![Ahmad Taha](https://i.imgur.com/rh0Thv6.png)
 
 ### Hi there 👋
 
