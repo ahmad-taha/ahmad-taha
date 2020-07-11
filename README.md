@@ -1,8 +1,7 @@
 ![Ahmad Taha](https://i.imgur.com/rh0Thv6.png)
 
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **ahmad-taha/ahmad-taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
